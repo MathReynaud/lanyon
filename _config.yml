@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               Lanyon
 tagline:             'A Jekyll theme'
-description:         'Elève à l'école Centrale de Lyon, passionnée par les Smart City, ce site est le résultat de ma veille technologique sur le sujet : Smart City & Big Data, quelles applications ? Pour aller plus loin, suivez moi sur Twitter <a href="https://twitter.com/Mathilde_ECL" target="_blank">@Mathilde_ECL</a>.'
+description:         'Elève à Centrale de Lyon, passionnée par les Smart City, ce site est le résultat de ma veille technologique sur le sujet : Smart City & Big Data, quelles applications ? Pour aller plus loin, suivez moi sur Twitter <a href="https://twitter.com/Mathilde_ECL" target="_blank">@Mathilde_ECL</a>.'
 url:                 http://lanyon.getpoole.com
 baseurl:             '/lanyon'
 paginate:            5
