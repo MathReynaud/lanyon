@@ -34,7 +34,7 @@ Pour résumer, une ville possède principalement 7 piliers sur lesquels elle peu
 * La santé 
 
 Aujourd'hui les Smart City souffrent presque toutes du même problème : leurs citoyens se rendent difficilement compte des 
-réalisations qui ont été faites. Si vous habitez dans une des villes "Intelligentes", prenez le temps 5 minutes pour essayer d'identifier les réalisations Smart City dans votre ville. Si vous n'y parvenez pas sachez que la plupart des villes communiquent énormément
+réalisations qui ont été faites. Si vous habitez dans une des villes "Intelligentes", prenez le temps 5 minutes pour essayer d'identifier les réalisations Smart City dans votre ville. Si vous n'y parvenez pas, sachez que la plupart des villes communiquent énormément
 sur internet à ce sujet. 
 
 
