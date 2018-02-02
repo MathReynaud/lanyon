@@ -22,11 +22,7 @@ Comme le montre le grahique ci dessous les 3 applications les plus courantes son
 
 Dans d'autres articles vous trouverez plus de détails sur <strong> l'Open Data </strong >dans les Smart City, ainsi que les <strong >Smart Grids. </strong>
 
-Aujourd'hui les Smart City souffrent presque toutes du même problème : leurs citoyens se rendent difficilement compte des 
-réalisations qui ont été faites. Si vous habitez dans une des villes "Intelligentes", prenez le temps 5 minutes avant d'aller
-plus loin dans la lecture pour essayer d'identifier les réalisations Smart City dans votre ville. 
-
-Une ville possède principalement 7 piliers sur lesquels elle peut agir :
+Pour résumer, une ville possède principalement 7 piliers sur lesquels elle peut agir :
 * L'administration 
 * Les ressources (utilisation des énergies propres et renouvelables, traitement des déchets, etc)
 * Le développement économique (infrascture dédiées aux entreprises)
@@ -34,4 +30,10 @@ Une ville possède principalement 7 piliers sur lesquels elle peut agir :
 * Le transport
 * La sécurité 
 * La santé 
+
+Aujourd'hui les Smart City souffrent presque toutes du même problème : leurs citoyens se rendent difficilement compte des 
+réalisations qui ont été faites. Si vous habitez dans une des villes "Intelligentes", prenez le temps 5 minutes pour essayer d'identifier les réalisations Smart City dans votre ville. Si vous n'y parvenez pas sachez que la plupart des villes communiquent énormément
+sur internet à ce sujet. 
+
+
 
