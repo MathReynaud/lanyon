@@ -11,7 +11,7 @@ City françaises ont moins de 250 000 habitants.
 
 On peut citer <strong> Paris, Marseille ou encore Lyon </strong>, mais aussi <strong> Béthune, Chartres ou encore Roubaix </strong>. La carte ci-dessous situe l'ensemble des Smart City en France.
 
-![Carte France](/Images/Carte_France.jpg/)
+![Carte France](/Images/Carte_France.jpg/){:width="100%"}
 
 ## Quelles sont leurs principales réalisations ?
 
