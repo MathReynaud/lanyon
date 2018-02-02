@@ -14,7 +14,7 @@ On peut citer <strong> Paris, Marseille ou encore Lyon </strong>, mais aussi <st
 ## Quelles sont leurs principales réalisations ?
 
 Comme le montre le grahique ci dessous les 3 applications les plus courante sont :
-1. L'open Data. 
+1. L'open Data 
 2. Le Wifi linéaire public 
 3. Les Smart Grids
 
