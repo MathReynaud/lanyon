@@ -18,4 +18,5 @@ Comme le montre le grahique ci dessous les 3 applications les plus courante sont
 2. Le Wifi linéaire public 
 3. Les Smart Grids
 
-<image src="Images/France.png">
+![...](/Images/France.png){:width="100%"}
+
