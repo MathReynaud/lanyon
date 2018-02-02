@@ -18,8 +18,7 @@ Il est difficile de mettre précisement les mots sur ce qu'est l'intelligence d'
 qu'il est difficile de défnir précisement ce qu'est l'intelligence d'un homme, car les définitions divergent
 d'un point de vue à l'autre. On peut toutefois retenir la suivante :
 
-> Elle peut être définie comme la capacité d’une ville à cibler ses besoins et ceux de ses citoyens, et à utiliser de manière optimale les ressources 
-technologiques poir y répondre 
+> Elle peut être définie comme la capacité d’une ville à cibler ses besoins et ceux de ses citoyens, et à utiliser de manière optimale les ressources technologiques pour y répondre.
 
 ## Quels sont aujourd'hui les enjeux de la smart city ?
 
