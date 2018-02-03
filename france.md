@@ -41,7 +41,7 @@ par l'administration, tandis que d'autres vont se focaliser tout d'abord sur la 
 raison qu'il n'existe pas un standart de ville intelligente.</strong>.
 
 >On peut par exemple citer la ville de Grenoble pour laquelle la diminution de la pollution est une prioriété, mais est rendue compliquée du fait de la géographie de la ville, prises
-entre deux valées formant une cuvette. D'autres ville vont naturellement bénéficier d'une pollution bien inférieure, et 
+entre deux valées formant une cuvette. D'autres villes vont naturellement bénéficier d'une pollution bien inférieure, et 
 décideront de se concentrer sur cette problématique dans un second temps. 
 
 Aujourd'hui les Smart City souffrent presque toutes du même problème : leurs citoyens se rendent difficilement compte des 
