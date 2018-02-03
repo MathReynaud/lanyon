@@ -1,6 +1,6 @@
 ---
-Layout : page
-Title : Et le Big Data dans tout ça ?
+layout : page
+title : Et le Big Data dans tout ça ?
 ---
 
 Une des caractéristiques de la Smart City est de transorfmer l'<strong>usager</strong> des services public en <strong>acteur</strong> :
