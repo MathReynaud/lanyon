@@ -26,19 +26,28 @@ décodé à distance. Ainsi le signal CPL est reçu par tout récepeteur CPL de 
 ## La technologie ERL
 
 Le compteur Linky dans sa forme la plus simple permet donc donc de connaître sa consommation
-en temps réel, et transmet les informations une fois par jours à Enedis. Cependant il a été conçu pour être équipé
-d'un équipement supplémentaire : <strong> l'ERL (Emetteur Radio Linky) </strong> qui permettera à terme au consommateur de maitrîser sa consommation.
+en temps réel, et transmet les informations une fois par jours à Enedis. Cependant il peut être équipé 
+d'un équipement supplémentaire : <strong> l'ERL (Emetteur Radio Linky) </strong>. 
 Cet équipement a été conçu dans le cadre de <strong> Smart Electric Lyon </strong> : l'un des plus importants programmes
-d'expérimentations sur l'évolution des usages de l'électricité.
+d'expérimentations sur l'évolution des usages de l'électricité dont la version V1 est arrivée à son terme le 30 juin dernier. 
 
 L'ERL a pour finalité de transmettre les informations en temps réel du compteur communiquant Linky en radio vers l'habitat. Il 
 a été conçu pour être compatibles avec l'ensemble des compteurs Linky. Il a pour vocation d’être la passerelle sans fil, ouverte pour des évolutions futures, basée sur des standards de communication sécurisés et permettant l'accès des équipements des locaux (résidentiels, commerces, bureaux) aux données du compteur Linky.
 
-Il a notamment pour but d'avoir les fonctionnalités suivantes :
-* Le « management tarifaire » : les équipements modulent leur fonctionnement selon le tarif du moment,
-* Le suivi de consommation/production électrique : l’ERL permet de diffuser les informations de consommation en temps réel pour un affichage sur des supports adaptés,
-* Le pilotage de certains équipements pour maîtriser sa consommation et améliorer son confort,
-* L’effacement de consommation
+L'ERL est donc passerelle de communication du compteur Linky vers les équipements de logement et permet de :
+* Envoyer toutes les informations de consommation ou de production qui arrivent dans le compteur Linky directement
+dans l'habitat via un afficheur, un smartphone, une tablette, ou encore un ordinateur.
+* Piloter les équipements de la maison et la recharge de la voiture électrique en fonction du tarif du moment
+et à venir
+* Maîtriser la demande en énergie. Par exemple, si un pic de consommation, l'ERL reçoit un order et l'envoie
+directement au chauffage pour qu'il s'arrête ou abaisse sa consigne de chauffe: c'est l'effacement.
+
+Cet ERL est basé sur deux protocoles radio standardisés au niveau international <strong>KNX</strong> et 
+<strong>ZIGBEE</strong>. Il a donc été conçu pour fonctionner avec les différents équipements existents ou futurs 
+sans restriction d'accès ou de mis en oeuvre. 
+
+
+
 
 
 
