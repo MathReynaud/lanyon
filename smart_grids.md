@@ -45,7 +45,34 @@ et de les traiter rapidement avec pertinence.
 
 ## L'architecture des réseaux intelligents
 
-Les réseaux électriques intelligents possèdent donc les caractéristiques suivants :
+Les réseaux électriques intelligents possèdent donc les caractéristiques suivantes :
+
+<table>
+  <thead>
+    <tr>
+      <th>Réseaux actuels</th>
+      <th>Réseaux intelligents</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Analogique</td>
+      <td>Unidirectionnel</td>
+      <td>Production centralisée</td>
+      <td>Communicant sur une partie des réseaux</td>
+      <td>Gestion de l’équilibre du système électrique par l’offre/ production </td>
+      <td>Consommateur</td>
+    </tr>
+    <tr>
+      <td>Numérique</td>
+      <td>Bidirectionnel</td>
+      <td>Production décentralisée</td>
+      <td>Communicant sur l’ensemble des réseaux</td>
+      <td>Gestion de l’équilibre du système électrique par la demande/consommation</td>
+      <td>Consom’acteur</td>
+    </tr>
+  </tbody>
+</table>
 
 Pour cela une architecture en 3 niveaux est nécessaire :
 
