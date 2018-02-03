@@ -45,7 +45,7 @@ et de les traiter rapidement avec pertinence.
 
 ## L'architecture des réseaux intelligents
 
-Les réseaux électriques intelligents possèdent donc les caractéritiques suivants :
+Les réseaux électriques intelligents possèdent donc les caractéristiques suivants :
 
 Pour cela une architecture en 3 niveaux est nécessaire :
 
