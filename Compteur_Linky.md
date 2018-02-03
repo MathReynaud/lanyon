@@ -27,5 +27,19 @@ décodé à distance. Ainsi le signal CPL est reçu par tout récepeteur CPL de 
 
 Le compteur Linky dans sa forme la plus simple permet donc donc de connaître sa consommation
 en temps réel, et transmet les informations une fois par jours à Enedis. Cependant il a été conçu pour être équipé
-d'un équipement supplémentaire : <strong> l'ERL </strong> qui permet au consommateur de maitrîser sa consommation.
+d'un équipement supplémentaire : <strong> l'ERL (Emetteur Radio Linky) </strong> qui permettera à terme au consommateur de maitrîser sa consommation.
+Cet équipement a été conçu dans le cadre de <strong> Smart Electric Lyon </strong> : l'un des plus importants programmes
+d'expérimentations sur l'évolution des usages de l'électricité.
+
+L'ERL a pour finalité de transmettre les informations en temps réel du compteur communiquant Linky en radio vers l'habitat. Il 
+a été conçu pour être compatibles avec l'ensemble des compteurs Linky. Il a pour vocation d’être la passerelle sans fil, ouverte pour des évolutions futures, basée sur des standards de communication sécurisés et permettant l'accès des équipements des locaux (résidentiels, commerces, bureaux) aux données du compteur Linky.
+
+Il a notamment pour but d'avoir les fonctionnalités suivantes :
+* Le « management tarifaire » : les équipements modulent leur fonctionnement selon le tarif du moment,
+* Le suivi de consommation/production électrique : l’ERL permet de diffuser les informations de consommation en temps réel pour un affichage sur des supports adaptés,
+* Le pilotage de certains équipements pour maîtriser sa consommation et améliorer son confort,
+* L’effacement de consommation
+
+
+
 
