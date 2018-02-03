@@ -25,6 +25,7 @@ décodé à distance. Ainsi le signal CPL est reçu par tout récepeteur CPL de 
 
 ## La technologie ERL
 
-Le compoteur Linky dans sa forme la plus simple permet donc donc de de connaître sa consommation
-en temps réel, et transmet les informations une fois par jours à Enedis. Cependant il a été conçu 
+Le compteur Linky dans sa forme la plus simple permet donc donc de connaître sa consommation
+en temps réel, et transmet les informations une fois par jours à Enedis. Cependant il a été conçu pour être équipé
+d'un équipement supplémentaire : <strong> l'ERL </strong> qui permet au consommateur de maitrîser sa consommation.
 
