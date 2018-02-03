@@ -3,5 +3,6 @@ layout: page
 title: Les compteurs Linky
 ---
 
-Comme nous l'avons vu, l'acquisition et le traitement des données en temps réel des consommations électriques est
-essentiel dans le développement des Smart Grids. 
+L'acquisition et le traitement des données en temps réel des consommations électriques est essentiel dans le développement des Smart Grids. 
+
+
