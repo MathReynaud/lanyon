@@ -22,7 +22,7 @@ Comme le montre le grahique ci dessous les 3 applications les plus courantes son
 
 ![France Réalisation](/Images/France.png){:width="100%"}
 
-Dans d'autres articles vous trouverez plus de détails sur <strong> l'Open Data </strong >dans les Smart City, ainsi que les <strong >Smart Grids. </strong>
+Dans d'autres articles vous trouverez plus de détails les <strong >Smart Grids. </strong>
 
 Pour résumer, une ville possède principalement 7 piliers sur lesquels elle peut agir :
 * L'administration : La participation citoyenne ainsi que la facilitation des démarches admnistratives
