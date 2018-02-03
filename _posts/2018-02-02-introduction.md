@@ -43,7 +43,7 @@ suffit pas. On peut en effet ouvrir les données sans que rien ne se produise : 
 soit efficace, créer des structures pour l'exploitation de celles-ci. En effet, faire parler les données est un métier 
 complexe et ce n'est pas le premier venu qui peut le faire.
 
-![Tuba](/Images/tuba.jpg/){:width="100%"}
+![Tuba](/tuba.jpg/){:width="100%"}
 
 Le Big Data permet donc une transformation profonde de la gestion des villes, et une grande parties des nouveaux servies
 développés pour les citoyens s'appuient sur des données collectées. 
