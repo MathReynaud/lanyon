@@ -12,7 +12,7 @@ pleines et les heures creuses au ballon d'eau chaude. La nouveauté du compteur 
 le distributeur d'électricité qui envoie des données, mais le compteur lui-même <strong>transmet la consommation électrique </strong>
 de la veille permettant ainsi au consommateur de pouvoir suivre sa consommation.
 
-![Compteur Linky](/Images/linky.jpg/){:width="50%"}
+![Compteur Linky](/Images/linky.jpg/){:width="10%"}
 
 Le principe des CPL consiste à superposer un courant électrique alternatif de 50 ou 60 Hz à un signal plus haute 
 fréquence et de faible énergie. Ce deuxième signal se propage sur l'installation électrique et peut être reçu et 
