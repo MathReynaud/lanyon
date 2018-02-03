@@ -57,18 +57,26 @@ Les réseaux électriques intelligents possèdent donc les caractéristiques sui
   <tbody>
     <tr>
       <td>Analogique</td>
+      <td>Numérique</td>
+   </tr>
+    <tr>
       <td>Unidirectionnel</td>
-      <td>Production centralisée</td>
-      <td>Communicant sur une partie des réseaux</td>
-      <td>Gestion de l’équilibre du système électrique par l’offre/ production </td>
-      <td>Consommateur</td>
+      <td>Bidirectionnel</td>
     </tr>
     <tr>
-      <td>Numérique</td>
-      <td>Bidirectionnel</td>
+      <td>Production centralisée</td>
       <td>Production décentralisée</td>
+     </tr>
+    <tr>
+      <td>Communicant sur une partie des réseaux</td>
       <td>Communicant sur l’ensemble des réseaux</td>
+      </tr>
+    <tr>
+      <td>Gestion de l’équilibre du système électrique par l’offre/ production </td>
       <td>Gestion de l’équilibre du système électrique par la demande/consommation</td>
+      </tr>
+    <tr>
+      <td>Consommateur</td>
       <td>Consom’acteur</td>
     </tr>
   </tbody>
