@@ -43,6 +43,15 @@ et de les traiter rapidement avec pertinence.
 
 ![Reseau Nouveau](/Images/reseau_nouveau.png/){:width="100%"}
 
+## L'architecture des réseaux intelligents
+
+Les réseaux électriques intelligents possèdent donc les caractéritiques suivants :
+
+Pour cela une architecture en 3 niveaux est nécessaire :
+
+* Le premier niveau sert à acheminer l’électricité par une infrastructure classique d’ouvrages électriques (lignes, transformateurs, etc.) 
+* Le deuxième niveau est formé par une architecture de communication fondée sur différents supports et technologies de communication (fibre optique, CPL, etc.) servant à collecter les données issues des capteurs installés sur les réseaux électriques
+* Le troisième niveau est constitué d’applications et de services, tels que des systèmes de dépannage à distance ou des programmes automatiques de réponse à la demande d’électricité utilisant une information en temps réel.
 
 
 
