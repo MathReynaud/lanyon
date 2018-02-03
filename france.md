@@ -28,17 +28,17 @@ Pour résumer, une ville possède principalement 7 piliers sur lesquels elle peu
 * L'administration : La participation citoyenne ainsi que la facilitation des démarches admnistratives
 * Les ressources : Utilisation des énergies propres et renouvelables, traitement des déchets, utilisation de l'eau, 
 réduction de la consommation énergétique et optimisation du réseau (Smart Grids)
-* Le développement économique : Infrascture dédiées aux entreprises, politique d'entreprise 
-* Le bien-être : Espace connectés, promotion de la culture, espaces verts ainsi que le développement d'une 
+* Le développement économique : Infrasctures dédiées aux entreprises, politique d'entreprise 
+* Le bien-être : Espaces connectés, promotion de la culture, espaces verts ainsi que le développement d'une 
 communauté de partage et vie de quartier
-* Le transport : Mobilité piétonne, réseau de transport en commun, voiture en libre service, vélos en libre service,
+* Le transport : Mobilité piétonne, réseau de transport en commun, voitures en libre service, vélos en libre service,
 gestion intelligente des places de stationnement et amélioration du réseau routier
 * La sécurité : Lutte contre la criminalité, cybersécurité et gestion des accidents et des situations de crise
 * La santé : Qualité de l'environnement ainsi que l'accompagnement des personnes âgées
 
 La ville dispose donc de nombreux piliers sur lesquelles elle peut agir, et certaines ville vont préférer commencer
 par l'administration, tandis que d'autres vont se focaliser tout d'abord sur la mobilité urbaine. <strong>C'est pour cette
-raison qu'il n'existe pas un standart de ville intelligente.</strong>.
+raison qu'il n'existe pas un standart de ville intelligente.</strong>
 
 >On peut par exemple citer la ville de Grenoble pour laquelle la diminution de la pollution est une prioriété, mais est rendue compliquée du fait de la géographie de la ville, prises
 entre deux valées formant une cuvette. D'autres villes vont naturellement bénéficier d'une pollution bien inférieure, et 
