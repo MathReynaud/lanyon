@@ -31,7 +31,7 @@ d'un équipement supplémentaire : <strong> l'ERL (Emetteur Radio Linky) </stron
 Cet équipement a été conçu dans le cadre de <strong> Smart Electric Lyon </strong> : l'un des plus importants programmes
 d'expérimentations sur l'évolution des usages de l'électricité dont la version V1 est arrivée à son terme le 30 juin dernier. 
 
-![Smart Electric Lyon](/Images/smartecl.png/){:width="100%"}
+![Smart Electric Lyon](/Images/smartelec.png/){:width="100%"}
 
 L'ERL a pour finalité de transmettre les informations en temps réel du compteur communiquant Linky en radio vers l'habitat. Il 
 a été conçu pour être compatibles avec l'ensemble des compteurs Linky. Il a pour vocation d’être la passerelle sans fil, ouverte pour des évolutions futures, basée sur des standards de communication sécurisés et permettant l'accès des équipements des locaux (résidentiels, commerces, bureaux) aux données du compteur Linky.
@@ -44,7 +44,7 @@ et à venir
 * Maîtriser la demande en énergie. Par exemple, si un pic de consommation, l'ERL reçoit un order et l'envoie
 directement au chauffage pour qu'il s'arrête ou abaisse sa consigne de chauffe: c'est l'effacement.
 
-![Smart Electric Lyon](/Images/smartappli.jpg/){:width="100%"}
+![Smart Electric Lyon](/Images/smartappli.png/){:width="100%"}
 
 Cet ERL est basé sur deux protocoles radio standardisés au niveau international <strong>KNX</strong> et 
 <strong>ZIGBEE</strong>. Il a donc été conçu pour fonctionner avec les différents équipements existents ou futurs 
