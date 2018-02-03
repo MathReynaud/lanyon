@@ -30,7 +30,7 @@ de surchage, en l'ambition Française est d'atteindre 6 GW d'effacement en 2023.
 
 Les objectifs visés par la France sont les suivants :
 
-![Défis France](/Images/defis.png/)
+![Défis France](/Images/defis.png/){:width="100%"}
 
 
 
