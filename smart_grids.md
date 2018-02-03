@@ -32,6 +32,17 @@ Les objectifs visés par la France sont les suivants :
 
 ![Défis France](/Images/defis.png/){:width="100%"}
 
+Le réseau électrique été auparavant conçu pour conduire l'électricité dans un seul sens : des centrales de production ver les consommateurs :
+
+![Reseau Ancien](/Images/reseau_ancien.png/){:width="100%"}
+
+Comme nous l'avons vu le réseau est aujourd'huien pleine mutation et devient plus intelligent pour permettre la 
+circulation de l'electricité dans les deux sens, afin de pouvoir accueillir des sites qui peuvent à la fois consommer et produire.
+Le réseau est de plus en plus dynamique et <strong> nécessite d'acquérir d'avantage de données </strong> sur son état 
+et de les traiter rapidement avec pertinence. 
+
+![Reseau Nouveau](/Images/reseau_nouveau.png/){:width="100%"}
+
 
 
 
