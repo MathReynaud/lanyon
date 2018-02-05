@@ -93,7 +93,7 @@ Pour cela une architecture en 3 niveaux est nécessaire :
 * Le premier niveau permet d'acheminer l’électricité par une infrastructure classique d’ouvrages électriques (lignes, transformateurs, etc) des sites de production vers les sites de consommations
 * Le deuxième niveau permet de collecter les données issues des capteurs installés sur les réseaux électriques grâce à une architecture de communication fondée sur différents supports et technologies de communication (fibre optique, CPL, etc.)
 * Le troisième niveau est constitué d’applications et de services basés sur l'exploitation des données. Ces services et applications
-sont nombreux, il peut par exemple s'agir d'application permettant l'effacement automatique en période de pointe grâce à l'abaissement
+sont nombreux, il peut par exemple s'agir d'une application permettant l'effacement automatique en période de pointe grâce à l'abaissement
 de la consigne de chauffe des radiateurs au sein d'un domicile. De manière générale, de nombreux programmes en réponse
 à la demande d'électricité  verront le jour et permettront d'agir sur cette dernière. 
 
