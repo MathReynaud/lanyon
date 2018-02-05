@@ -6,7 +6,7 @@ title: Les Smart City en France
 En france on compte pas moins de 25 communes, métropoles et communautés d'agglomération qui développent des services 
 intelligents. 
 
-> Parmis ces "Smart City" francaises les grande métropole sont évidemment au rendez-vous, mais pas que ! 14 de 25 Smart
+> Parmis ces "Smart City" françaises les grande métropole sont évidemment au rendez-vous, mais pas que ! 14 de 25 Smart
 City françaises ont moins de 250 000 habitants.
 
 On peut citer <strong> Paris, Marseille ou encore Lyon </strong>, mais aussi <strong> Béthune, Chartres ou encore Roubaix </strong>. La carte ci-dessous situe l'ensemble des Smart City en France.
@@ -15,7 +15,7 @@ On peut citer <strong> Paris, Marseille ou encore Lyon </strong>, mais aussi <st
 
 ## Quelles sont leurs principales réalisations ?
 
-Comme le montre le grahique ci dessous les 3 applications les plus courantes sont :
+Comme le montre le graphique ci dessous les 3 applications les plus courantes sont :
 1. L'open Data 
 2. Le Wifi linéaire public 
 3. Les Smart Grids
@@ -25,10 +25,10 @@ Comme le montre le grahique ci dessous les 3 applications les plus courantes son
 Dans d'autres articles vous trouverez plus de détails les <strong >Smart Grids. </strong>
 
 Pour résumer, une ville possède principalement 7 piliers sur lesquels elle peut agir :
-* L'administration : La participation citoyenne ainsi que la facilitation des démarches admnistratives
+* L'administration : La participation citoyenne ainsi que la facilitation des démarches administratives
 * Les ressources : Utilisation des énergies propres et renouvelables, traitement des déchets, utilisation de l'eau, 
 réduction de la consommation énergétique et optimisation du réseau (Smart Grids)
-* Le développement économique : Infrasctures dédiées aux entreprises, politique d'entreprise 
+* Le développement économique : Infrastructures dédiées aux entreprises, politique d'entreprise 
 * Le bien-être : Espaces connectés, promotion de la culture, espaces verts ainsi que le développement d'une 
 communauté de partage et vie de quartier
 * Le transport : Mobilité piétonne, réseau de transport en commun, voitures en libre service, vélos en libre service,
@@ -36,12 +36,12 @@ gestion intelligente des places de stationnement et amélioration du réseau rou
 * La sécurité : Lutte contre la criminalité, cybersécurité et gestion des accidents et des situations de crise
 * La santé : Qualité de l'environnement ainsi que l'accompagnement des personnes âgées
 
-La ville dispose donc de nombreux piliers sur lesquelles elle peut agir, et certaines ville vont préférer commencer
+La ville dispose donc de nombreux piliers sur lesquelles elle peut agir, et certaines villes vont préférer commencer
 par l'administration, tandis que d'autres vont se focaliser tout d'abord sur la mobilité urbaine. <strong>C'est pour cette
 raison qu'il n'existe pas un standart de ville intelligente.</strong>
 
 >On peut par exemple citer la ville de Grenoble pour laquelle la diminution de la pollution est une prioriété, mais est rendue compliquée du fait de la géographie de la ville, prises
-entre deux valées formant une cuvette. D'autres villes vont naturellement bénéficier d'une pollution bien inférieure, et 
+entre deux vallées formant une cuvette. D'autres villes vont naturellement bénéficier d'une pollution bien inférieure, et 
 décideront de se concentrer sur cette problématique dans un second temps. 
 
 Aujourd'hui les Smart City souffrent presque toutes du même problème : leurs citoyens se rendent difficilement compte des 
