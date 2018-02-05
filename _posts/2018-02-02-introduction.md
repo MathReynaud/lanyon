@@ -3,12 +3,9 @@ layout: post
 title: Les Smart City, finalement c'est quoi ?
 ---
 
-Le concept de &ldquo;Smart City	&rdquo; a survécu à l&rsquo;emballement médiatique de ces trois dernières années pour s'inscrire concrètement dans tous les projets d'aménagement territoriaux
-et indiscutablement dans notre quotidien. 
+Le concept de &ldquo;Smart City	&rdquo; a survécu à l&rsquo;emballement médiatique de ces trois dernières années pour s'inscrire concrètement dans tous les projets d'aménagement territoriaux et indiscutablement dans notre quotidien. 
 
-Les différents acteurs pourraient être tentés dans cette phase de développement de chercher à mettre en boîte la recette miracle de la &ldquo;Smart City	&rdquo; 
-ou du &ldquo;Smart Territoire	&rdquo;
-ou encore du &ldquo;Smart Quartier &rdquo;. Mais ca serait faire preuve d'une grande arrogance que d'imaginer trouver 
+Les différents acteurs pourraient être tentés dans cette phase de développement de chercher à mettre en boîte la recette miracle de la &ldquo;Smart City. Mais ca serait faire preuve d'une grande arrogance que d'imaginer trouver 
 une solution standart à la diversité des problématiques auxquelles chaque térritoire est confronté et porterait un coup
 fatal au principal moteur de la transformation que sont la participation citoyenne, l'innivation et la co-construction. 
 
