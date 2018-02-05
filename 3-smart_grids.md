@@ -37,7 +37,7 @@ Les objectifs visés par la France sont les suivants :
 
 ![Défis France](/Images/defis.png/){:width="100%"}
 
-Le réseau électrique étaint auparavant conçus pour conduire l'électricité dans un seul sens : des centrales de production ver les consommateurs comme l'illustre le schéma ci-dessous :
+Le réseau électrique étaient auparavant conçus pour conduire l'électricité dans un seul sens : des centrales de production ver les consommateurs comme l'illustre le schéma ci-dessous :
 
 ![Reseau Ancien](/Images/reseau_ancien.png/){:width="100%"}
 
@@ -51,7 +51,7 @@ et de les traiter rapidement et avec pertinence.
 
 ## L'architecture des réseaux intelligents
 
-Au vu de toutes les mutations évoquées plus haut, on peut dire que les réseaux électriques intelligents possèdent donc les caractéristiques suivantes :
+Au vu de toutes les mutations évoquées plus haut, les réseaux électriques intelligents possèdent donc les caractéristiques suivantes :
 
 <table>
   <thead>
@@ -91,9 +91,10 @@ Au vu de toutes les mutations évoquées plus haut, on peut dire que les réseau
 Pour cela une architecture en 3 niveaux est nécessaire :
 
 * Le premier niveau permet d'acheminer l’électricité par une infrastructure classique d’ouvrages électriques (lignes, transformateurs, etc) des sites de production vers les sites de consommations
-* Le deuxième niveau est formé par une architecture de communication fondée sur différents supports et technologies de communication (fibre optique, CPL, etc.) servant à collecter les données issues des capteurs installés sur les réseaux électriques
-* Le troisième niveau est constitué d’applications et de services, tels que des systèmes de dépannage à distance ou des programmes automatiques de réponse à la demande d’électricité utilisant une information en temps réel. Ce sont par exemple des applications 
-permettant l'effacement à tavers la baise, ou l'arrêt complet de certains radiateurs. 
-
+* Le deuxième niveau permet de collecter les données issues des capteurs installés sur les réseaux électriques grâce à une architecture de communication fondée sur différents supports et technologies de communication (fibre optique, CPL, etc.)
+* Le troisième niveau est constitué d’applications et de services basés sur l'exploitation des données. Ces services et applications
+sont nombreux, il peut par exemple s'agir d'application permettant l'effacement automatique en période de pointe grâce à l'abaissement
+de la consigne de chauffe des radiateurs au sein d'un domicile. De manière générale, de nombreux programmes en réponse
+à la demande d'électricité  verront le jour et permettront d'agir sur cette dernière. 
 
 
