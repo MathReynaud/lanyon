@@ -3,53 +3,55 @@ layout: page
 title: Les Smart Grids
 ---
 
-Les Smart Grids sont arrivées en réponse aux nouveaux défis de demain du réseau éléctrique. On peut regrouper ces défis en 3 grandes
-problématiques. 
+Les Smart Grids sont arrivées en réponse aux nouveaux défis auquels les réseaux éléctriques doivent faire face. On peut regrouper ces défis en 3 grandes problématiques. 
 
 ### Faciliter l'intégration de la production de sources renouvables et décentralisé
 
 Le terme <strong> Transition Energétique </strong> ne peut pas vous être inconnu. Il désigne tout simplement le
-passage d'un système énergétique axé sur des énergies non renouvlables (pétrole, gaz, charbon) à un nouveau mix
-énergétique plus efficace et moins carbonné. 
+passage d'un système énergétique axé sur des énergies non renouvelables (pétrole, gaz, charbon) à un nouveau mix
+énergétique (éoliennes, photovoltaïque) plus efficace et moins carboné. 
 
-Depuis quelques années, de plus en plus de sources d’électricité d’origine renouvelable (éolien, photovoltaïque) sont reliées au réseau électrique. L’intermittence de cette production (l’éolien dépend du vent, le photovoltaïque du soleil) la rend très difficile à intégrer au réseau et ne correspond pas forcément aux périodes de consommation de pointe (19h en général).
-Au contraire, des sources d'électricité produissent souvent lorsque la demande est faible.
-L'électricité produite, ne pouvant être stockée, est alors perdue. Le développement des énergies de sources renouvelables est ainsi souvent freiné par une inadéquation des moyens de production avec le fonctionnement du réseau actuel.
+Depuis quelques années, de plus en plus de sources d’électricité d’origine renouvelable (éolien, photovoltaïque) sont reliées au réseau électrique. La particularité de ces sources d'énergie, outre le fait qu'elles soient renouvelables, réside dans le fait que la production
+est intermittente, en effet l'éolien dépend du vent, tandis que le photovoltaïque par exemple dépend du soleil.
+Cette intermittence rend ces sources d'énergies très difficiles à intégrer au réseau et là où la demande d'électricité est la plus forte 
+-autour de 19h en général-, elles peuvent être au ralenti et donc ne pas parvenir à combler la demande. Au contraire, lors 
+de jours de beaux temps, l'électricité produite en excès, ne pouvant être stockée, est alors perdue. Le développement des énergies de sources renouvelables est ainsi souvent freiné par une inadéquation des moyens de production avec le fonctionnement du réseau actuel.
 
-Une bonne intégration sur le réseau électrique des énergies renouvables représente donc un défi majeur et est nécessaire si on veut
-continuer à augmenter la part du renouvable dans le parc électrique. 
+Une bonne intégration sur le réseau électrique des énergies renouvelables représente donc un défi majeur et est nécessaire si on veut
+continuer à augmenter la part du renouvelable dans le parc électrique. 
 
 ### Intégrer des nouveaux usages de l'électricité et rendre actif le consommateur au sein du système électrique 
 
-Enedis ambitionne de développer <strong>7 millions de points de recharges </strong> pour
-les voitures électriques sur le territoire d'ici 2030, et de nombreux autres
-usages de l'électricité vont se développer, comme <strong>l'autcoonsommation </strong>(individuelle ou collective) et le <strong> stockage de l'électricité. </strong>
+En France, Enedis ambitionne de développer <strong>7 millions de points de recharges </strong> pour
+les voitures électriques sur le territoire d'ici 2030, et en parallèle de nombreux autres
+usages de l'électricité vont se développer, comme <strong>l'l'autoconsommation </strong>(individuelle ou collective) et le <strong> stockage de l'électricité. </strong>
 
 Afin de rendre les citoyens, non plus seulement consommateurs, mais <strong> consom'acteurs </strong>, ceci devront
-avoir une meilleure compréhension et gestion de la consommations électrique. Enedise ambitionne pour cela de déployers
-<strong>35 millions de compteurs communicants </strong> (Linky) d'ici 2021. Enfin pour contribuer à la gestion des périodes
-de surchage, l'ambition Française est d'atteindre 6 GW d'effacement en 2023. 
+avoir une meilleure compréhension et gestion de la consommations électrique. Enedis ambitionne pour cela de déployer
+<strong>35 millions de compteurs communicants </strong> (Linky) d'ici 2021. De plus, lors des périodes de surcharge, <strong>l'idée n'est plus
+d'agir sur la production, mais sur la demande.</strong> L'idée est donc de généraliser l'effacement et d'atteindre 6 GW d'effacement en 2023. 
 
-> Ceci ira encore plus loin, car les consommateurs pourront également devenir des acteurs de la production éléctrique. Très prochainement, l’électricité fournie par leur éolienne ou leurs panneaux photovoltaïques sera directement injectée sur le réseau ou dans le circuit énergétique de leur maison, résidence ou usine. Elle servira, par exemple, à la recharge des batteries de leurs voitures électriques.
+> Ceci ira encore plus loin, car les consommateurs pourront également devenir des acteurs de la production électrique. Très prochainement, l’électricité fournie par leurs éoliennes ou leurs panneaux photovoltaïques sera directement injectée sur le réseau ou dans le circuit énergétique de leur maison, résidence ou usine. Elle servira, par exemple, à la recharge des batteries de leurs voitures électriques.
 
 Les objectifs visés par la France sont les suivants :
 
 ![Défis France](/Images/defis.png/){:width="100%"}
 
-Le réseau électrique été auparavant conçu pour conduire l'électricité dans un seul sens : des centrales de production ver les consommateurs :
+Le réseau électrique étaint auparavant conçus pour conduire l'électricité dans un seul sens : des centrales de production ver les consommateurs comme l'illustre le schéma ci-dessous :
 
 ![Reseau Ancien](/Images/reseau_ancien.png/){:width="100%"}
 
-Comme nous l'avons vu le réseau est aujourd'huien pleine mutation et devient plus intelligent pour permettre la 
-circulation de l'electricité dans les deux sens, afin de pouvoir accueillir des sites qui peuvent à la fois consommer et produire.
-Le réseau est de plus en plus dynamique et <strong> nécessite d'acquérir d'avantage de données </strong> sur son état 
-et de les traiter rapidement avec pertinence. 
+Comme nous l'avons vu, pour répondre aux nouveaux défis, le réseau électrique doit évoluer. Il est d'or et déjà en pleine mutation 
+et devient plus intelligent, notamment au travers des Smart Grids. Ces dernières permettront la circulation de l'électricité dans
+les deux sens, afin de pouvoir accueillir des sites qui peuvent à la fois consommer et produire.
+De plus, dans de tels réseaux, il est <strong> nécessaire d'acquérir d'avantage de données </strong> sur l'état du réseau (offre, demande)
+et de les traiter rapidement et avec pertinence. 
 
 ![Reseau Nouveau](/Images/reseau_nouveau.png/){:width="100%"}
 
 ## L'architecture des réseaux intelligents
 
-Les réseaux électriques intelligents possèdent donc les caractéristiques suivantes :
+Au vu de toutes les mutations évoquées plus haut, on peut dire que les réseaux électriques intelligents possèdent donc les caractéristiques suivantes :
 
 <table>
   <thead>
@@ -88,7 +90,7 @@ Les réseaux électriques intelligents possèdent donc les caractéristiques sui
 
 Pour cela une architecture en 3 niveaux est nécessaire :
 
-* Le premier niveau sert à acheminer l’électricité par une infrastructure classique d’ouvrages électriques (lignes, transformateurs, etc.) 
+* Le premier niveau permet d'acheminer l’électricité par une infrastructure classique d’ouvrages électriques (lignes, transformateurs, etc) des sites de production vers les sites de consommations
 * Le deuxième niveau est formé par une architecture de communication fondée sur différents supports et technologies de communication (fibre optique, CPL, etc.) servant à collecter les données issues des capteurs installés sur les réseaux électriques
 * Le troisième niveau est constitué d’applications et de services, tels que des systèmes de dépannage à distance ou des programmes automatiques de réponse à la demande d’électricité utilisant une information en temps réel. Ce sont par exemple des applications 
 permettant l'effacement à tavers la baise, ou l'arrêt complet de certains radiateurs. 
