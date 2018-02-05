@@ -3,30 +3,30 @@ layout: page
 title: Les compteurs Linky
 ---
 
-L'acquisition et le traitement des données en temps réel des consommations électriques est essentiel dans le développement des Smart Grids. <strong> L'objectif du compteur Linky est de donner le pouvoir au citoyen de modifier sa demande d'électricté </strong> grâce aux données collectées.
+L'acquisition et le traitement des données en temps réel des consommations électriques est essentiel dans le développement des Smart Grids. <strong> L'objectif du compteur Linky est de donner le pouvoir au citoyen de modifier sa demande d'électricité </strong> grâce aux données collectées.
 
 ## La technologie CPL
 
 La technologie <strong>C</strong>ourants <strong>P</strong>orteurs de <strong>L</strong>igne (CPL) est employée depuis longtemps, elle permet notamment depuis les années 60 d'indiquer les heures 
-pleines et les heures creuses au ballon d'eau chaude. La nouveauté du compteur Linky réside dans le fait que n'est plus non seulement
-le distributeur d'électricité qui envoie des données, mais le compteur lui-même <strong>transmet la consommation électrique </strong>
-de la veille permettant ainsi au consommateur de pouvoir suivre sa consommation.
+pleines et les heures creuses au ballon d'eau chaude. La nouveauté du compteur Linky réside dans le fait que ce n'est plus seulement
+le distributeur d'électricité qui envoie des données : le compteur lui-même <strong>transmet la consommation électrique </strong>
+du jour précédent permettant ainsi au consommateur de pouvoir suivre sa consommation.
 
 ![Compteur Linky](/Images/linky.jpg/){:width="50%"}
 
 Le principe des CPL consiste à superposer un courant électrique alternatif de 50 ou 60 Hz à un signal plus haute 
 fréquence et de faible énergie. Ce deuxième signal se propage sur l'installation électrique et peut être reçu et 
-décodé à distance. Ainsi le signal CPL est reçu par tout récepeteur CPL de même catégorie se trouvant sur le même réseau
+décodé à distance. Ainsi le signal CPL est reçu par tout récepteur CPL de même catégorie se trouvant sur le même réseau
 électrique. 
 
-> Pour les compteurs Linky, les débis sont habituellement compris entre 2,4 et 20 kbits/s
+> Pour les compteurs Linky, les débits sont habituellement compris entre 2,4 et 20 kbits/s
 
 ![CPL](/Images/CPL.jpg/){:width="100%"}
 
 ## La technologie ERL
 
-Le compteur Linky dans sa forme la plus simple permet donc donc de connaître sa consommation
-en temps réel, et transmet les informations une fois par jours à Enedis. Cependant il peut être équipé 
+Le compteur Linky dans sa forme la plus simple permet donc de connaître sa consommation
+en temps réel, et de transmettre les informations une fois par jours au distributeur d'électricité. Cependant il peut être équipé 
 d'un équipement supplémentaire : <strong> l'ERL (Emetteur Radio Linky) </strong>. 
 Cet équipement a été conçu dans le cadre de <strong> Smart Electric Lyon </strong> : l'un des plus importants programmes
 d'expérimentations sur l'évolution des usages de l'électricité dont la version V1 est arrivée à son terme le 30 juin dernier. 
@@ -41,14 +41,14 @@ L'ERL est donc passerelle de communication du compteur Linky vers les équipemen
 dans l'habitat via un afficheur, un smartphone, une tablette, ou encore un ordinateur.
 * Piloter les équipements de la maison et la recharge de la voiture électrique en fonction du tarif du moment
 et à venir
-* Maîtriser la demande en énergie. Par exemple, si un pic de consommation, l'ERL reçoit un order et l'envoie
+* Maîtriser la demande en énergie. Par exemple, si un pic de consommation intervient, l'ERL reçoit un orde et l'envoie
 directement au chauffage pour qu'il s'arrête ou abaisse sa consigne de chauffe: c'est l'effacement.
 
 ![Smart Electric Lyon](/Images/smartappli.png/){:width="100%"}
 
 Cet ERL est basé sur deux protocoles radio standardisés au niveau international <strong>KNX</strong> et 
 <strong>ZIGBEE</strong>. Il a donc été conçu pour fonctionner avec les différents équipements existents ou futurs 
-sans restriction d'accès ou de mis en oeuvre. 
+sans restriction d'accès ou de mis en oeuvre. Ainsi, n'importe quel radiateur électrique, de n'importe quelle marque utilisant l'un des deux protocoles, pourra être connecté au compteur Linky via cet ERL.
 
 
 
