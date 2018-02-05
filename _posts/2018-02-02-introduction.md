@@ -3,16 +3,16 @@ layout: post
 title: Les Smart City, finalement c'est quoi ?
 ---
 
-Le concept de *"Smart City"* a suscité un fort engoument médiatique auquel il a survécu. Aujourd'hui, de nombreux projets Smart City
+Le concept de *"Smart City"* a suscité un fort engouement médiatique auquel il a survécu. Aujourd'hui, de nombreux projets Smart City
 se développent un peu partout dans le monde, et les projets d'aménagement territoriaux on porté leurs premiers résultats. 
 
 Cependant, il n'existe pas de recette miracle pour **la** Smart City. Chaque territoire est confronté à ses propres problématiques et 
-un modèle de Smart City est difficielement transposable d'une ville à l'autre. Les moteurs de cette transformation profonde des villes sont la participation citoyenne, l'innovation et la-construction.  
+un modèle de Smart City est difficilement transposable d'une ville à l'autre. Les moteurs de cette transformation profonde des villes sont la participation citoyenne, l'innovation et la-construction.  
 
 ## Une définition de la ville intelligente ?
 
-Il est difficile de mettre précisement les mots sur ce qu'est l'intelligence d'une ville, tout autant 
-qu'il est difficile de défnir précisement ce qu'est l'intelligence d'un homme, car les définitions divergent
+Il est difficile de mettre précisément les mots sur ce qu'est l'intelligence d'une ville, tout autant 
+qu'il est difficile de définir précisément ce qu'est l'intelligence d'un homme, car les définitions divergent
 d'un point de vue à l'autre. On peut toutefois retenir la suivante : 
 
 > Elle peut être définie comme la capacité d’une ville à cibler ses besoins et ceux de ses citoyens, et à utiliser de manière optimale les ressources technologiques pour y répondre.
