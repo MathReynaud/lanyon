@@ -5,7 +5,7 @@ title: Les Smart Grids
 
 Les Smart Grids sont arrivées en réponse aux nouveaux défis auquels les réseaux éléctriques doivent faire face. On peut regrouper ces défis en 3 grandes problématiques. 
 
-### Faciliter l'intégration de la production de sources renouvables et décentralisé
+### Faciliter l'intégration de la production de sources renouvelables et décentralisé
 
 Le terme <strong> Transition Energétique </strong> ne peut pas vous être inconnu. Il désigne tout simplement le
 passage d'un système énergétique axé sur des énergies non renouvelables (pétrole, gaz, charbon) à un nouveau mix
