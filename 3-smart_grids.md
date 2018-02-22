@@ -78,7 +78,7 @@ Au vu de toutes les mutations évoquées plus haut, les réseaux électriques in
       <td>Communicant sur l’ensemble des réseaux</td>
       </tr>
     <tr>
-      <td>Gestion de l’équilibre du système électrique par l’offre/ production </td>
+      <td>Gestion de l’équilibre du système électrique par la demande/ production </td>
       <td>Gestion de l’équilibre du système électrique par la demande/consommation</td>
       </tr>
     <tr>
