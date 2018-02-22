@@ -24,7 +24,7 @@ continuer à augmenter la part du renouvelable dans le parc électrique.
 
 En France, Enedis ambitionne de développer <strong>7 millions de points de recharges </strong> pour
 les voitures électriques sur le territoire d'ici 2030, et en parallèle de nombreux autres
-usages de l'électricité vont se développer, comme <strong>l'l'autoconsommation </strong>(individuelle ou collective) et le <strong> stockage de l'électricité. </strong>
+usages de l'électricité vont se développer, comme <strong>l'autoconsommation </strong>(individuelle ou collective) et le <strong> stockage de l'électricité. </strong>
 
 Afin de rendre les citoyens, non plus seulement consommateurs, mais <strong> consom'acteurs </strong>, ceci devront
 avoir une meilleure compréhension et gestion de la consommations électrique. Enedis ambitionne pour cela de déployer
