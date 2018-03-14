@@ -3,7 +3,7 @@ layout: page
 title: Sources
 ---
 
-Les sources suivantes ont été en particulier utilisées pour effectuer ma veille technologique :
+Les sources suivantes ont été utilisées pour effectuer ma veille technologique :
 
 * [Site officiel du compteur Linky](https://www.compteur-linky.com/comprendre/technologie-utilisee-compteur-linky-cpl-cest-quoi/)
 
