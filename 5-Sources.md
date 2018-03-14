@@ -17,4 +17,8 @@ Les sources suivantes ont été en particulier utilisées pour effectuer ma veil
 
 * [Article du digital trends](https://www.digitaltrends.com/cool-tech/kansas-smart-city/?utm_source=dlvr.it&utm_medium=twitter)
 
+* [Article de recherche : Big Data management in smart grid: concepts, requirements and implementation](Big Data management in smart grid: concepts, requirements and implementation)
+
+
+
 
