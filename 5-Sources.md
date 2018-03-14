@@ -13,7 +13,7 @@ Les sources suivantes ont été en particulier utilisées pour effectuer ma veil
 
 * [Site officiel d'Enedis](http://www.enedis.fr)
 
-* [Article du monde de l'énergie](http://www.lemondedelenergie.com/les-smart-grids-au-service-de-lintegration-des-renouvelables/2017/02/22/-
+* [Article du monde de l'énergie](http://www.lemondedelenergie.com/les-smart-grids-au-service-de-lintegration-des-renouvelables/2017/02/22/-)
 
 * [Article du digital trends](https://www.digitaltrends.com/cool-tech/kansas-smart-city/?utm_source=dlvr.it&utm_medium=twitter)
 
