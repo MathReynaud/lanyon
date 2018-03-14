@@ -36,10 +36,12 @@ d'agir sur la production, mais sur la demande.</strong> L'idée est donc de gén
 Les objectifs visés par la France sont les suivants :
 
 ![Défis France](/Images/defis.png/){:width="100%"}
+<em> Source : Enedis</em>
 
 Le réseau électrique étaient auparavant conçus pour conduire l'électricité dans un seul sens : des centrales de production ver les consommateurs comme l'illustre le schéma ci-dessous :
 
 ![Reseau Ancien](/Images/reseau_ancien.png/){:width="100%"}
+<em> Source : Site officiel la Commission de régulation de l’énergie</em>
 
 Comme nous l'avons vu, pour répondre aux nouveaux défis, le réseau électrique doit évoluer. Il est d'or et déjà en pleine mutation 
 et devient plus intelligent, notamment au travers des Smart Grids. Ces dernières permettront la circulation de l'électricité dans
@@ -48,6 +50,7 @@ De plus, dans de tels réseaux, il est <strong> nécessaire d'acquérir d'avanta
 et de les traiter rapidement et avec pertinence. 
 
 ![Reseau Nouveau](/Images/reseau_nouveau.png/){:width="100%"}
+<em> Source : Site officiel la Commission de régulation de l’énergie</em>
 
 ## L'architecture des réseaux intelligents
 
