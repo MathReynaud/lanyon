@@ -12,7 +12,7 @@ City françaises ont moins de 250 000 habitants.
 On peut citer <strong> Paris, Marseille ou encore Lyon </strong>, mais aussi <strong> Béthune, Chartres ou encore Roubaix </strong>. La carte ci-dessous situe l'ensemble des Smart City en France.
 
 ![Carte France](/Images/Carte_France.jpg/)
-Source : Le journal du net
+<em>Source : Le journal du net</em>
 
 ## Quelles sont leurs principales réalisations ?
 
@@ -22,7 +22,7 @@ Comme le montre le graphique ci dessous les 3 applications les plus courantes so
 3. Les Smart Grids
 
 ![France Réalisation](/Images/France.png){:width="100%"}
-Source : Le journal du net
+<em>Source : Le journal du net</em>
 
 Dans d'autres articles vous trouverez plus de détails les <strong >Smart Grids. </strong>
 
