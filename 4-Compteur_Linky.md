@@ -13,6 +13,7 @@ le distributeur d'électricité qui envoie des données : le compteur lui-même 
 du jour précédent permettant ainsi au consommateur de pouvoir suivre sa consommation.
 
 ![Compteur Linky](/Images/linky.jpg/){:width="50%"}
+<em> Source : Site officiel du compteur Linky</em>
 
 Le principe des CPL consiste à superposer un courant électrique alternatif de 50 ou 60 Hz à un signal plus haute 
 fréquence et de faible énergie. Ce deuxième signal se propage sur l'installation électrique et peut être reçu et 
@@ -22,6 +23,7 @@ décodé à distance. Ainsi le signal CPL est reçu par tout récepteur CPL de m
 > Pour les compteurs Linky, les débits sont habituellement compris entre 2,4 et 20 kbits/s
 
 ![CPL](/Images/CPL.jpg/){:width="100%"}
+<em> Source : Site officiel du compteur Linky</em>
 
 ## La technologie ERL
 
@@ -32,6 +34,7 @@ Cet équipement a été conçu dans le cadre de <strong> Smart Electric Lyon </s
 d'expérimentations sur l'évolution des usages de l'électricité dont la version V1 est arrivée à son terme le 30 juin dernier. 
 
 ![Smart Electric Lyon](/Images/smartelec.png/){:width="100%"}
+<em> Source : Site officiel de Smart Electric Lyon</em>
 
 L'ERL a pour finalité de transmettre les informations en temps réel du compteur communiquant Linky en radio vers l'habitat. Il 
 a été conçu pour être compatibles avec l'ensemble des compteurs Linky. Il a pour vocation d’être la passerelle sans fil, ouverte pour des évolutions futures, basée sur des standards de communication sécurisés et permettant l'accès des équipements des locaux (résidentiels, commerces, bureaux) aux données du compteur Linky.
@@ -45,6 +48,7 @@ et à venir
 directement au chauffage pour qu'il s'arrête ou abaisse sa consigne de chauffe: c'est l'effacement.
 
 ![Smart Electric Lyon](/Images/smartappli.png/){:width="100%"}
+<em> Source : Site officiel la Commission de régulation de l’énergie</em>
 
 Cet ERL est basé sur deux protocoles radio standardisés au niveau international <strong>KNX</strong> et 
 <strong>ZIGBEE</strong>. Il a donc été conçu pour fonctionner avec les différents équipements existents ou futurs 
