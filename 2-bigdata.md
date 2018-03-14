@@ -22,6 +22,7 @@ soit efficace, créer des structures pour l'exploitation de celles-ci. En effet,
 faire parler des données. 
 
 ![Tuba](/Images/tuba.jpg/){:width="100%"}
+<em>Source : Tuba</em>
 
 Le Big Data permet donc une transformation profonde de la gestion des villes, et une grande parties des nouveaux servies
 développés <strong> pour et par</strong> les citoyens s'appuient sur des données collectées. C'est en grande partie la collecte
